@@ -1,5 +1,5 @@
 // the new change for code to grab the key
-var fs = require('fs-extra');
+var fs = require('fs');
 //twitter npm from the documention
 var twitter = require('twitter');
 //spotify npm from the documention  (new spotify)
